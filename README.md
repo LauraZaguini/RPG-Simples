@@ -1,4 +1,4 @@
-# RPG Simples
+# [RPG Simples](https://laurazagp.itch.io/rpg-simples)
  
 Um RPG Simples feito no curso de Gamer Maker Studio 2, movimentando o personagem com as setinhas. Espaço você ganha item do inventário, pode utilizar o mouse para retirar item do inventário e colocar novamente e até mesmo alterar o slot dele.
 
